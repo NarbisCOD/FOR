@@ -34,9 +34,9 @@ int main(){
                 i = MAX_INTENTOS;
                 }else if(i==4){
                     printf("Espere un dia para volver a intentarlo");
-                    }else{
-                        printf("Usuario y/o clave errada :< \n");
-                    } 
+                }else{
+                    printf("Usuario y/o clave errada :< \n");
+                } 
     }
     return 0;
 }
